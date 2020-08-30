@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `COVID-19 Data`,
+    title: `COVID-19 Stats`,
     description: `COVID-19 Data App built with Gatsby`,
     author: `@sujalgoel`,
   },
