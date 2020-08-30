@@ -1,7 +1,7 @@
 # COVID-19 statis Web App example
 Build with Gatsby, Evergreen UI, and TailwindCSS
 ___
-[Demo Live Here](http://covid19data.now.sh/)
+[Demo Live Here](https://covid-19-example.vercel.app/)
 
 Gatsby App for COVID-19 Data
 powered by [@mathdroid](https://github.com/mathdroid/covid-19-api)'s [covid-19-api](https://covid19.mathdro.id/)
